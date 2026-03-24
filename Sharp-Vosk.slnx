@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Sharp-Vosk.AutoGen/Sharp-Vosk.AutoGen.csproj" />
+  <Project Path="Sharp-Vosk/Sharp-Vosk.csproj" />
+</Solution>
